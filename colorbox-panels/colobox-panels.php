@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Colorbox Panels
- * Version: 2.1.5
+ * Version: 2.1.6
  * Description: Colorbox panels is the most easiest drag & drop icon box and content box builder for WordPress. You can add unlimited panels with unlimited color scheme.
  * Author: wpshopmart
  * Author URI: https://www.wpshopmart.com

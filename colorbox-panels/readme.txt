@@ -1,10 +1,10 @@
 === Colorbox Panels & Info Box ===
 Contributors: wpshopmart
 Donate link: https://www.wpshopmart.com
-Tags: panels, content box, icon box, box, info box, responsive colorbox, colourbox, column layout, raw, shortcode, icon, service, bootstrap panels, bootstrap, image box, css3, plugins, widget, box shortcode, shortcode, wordpress box, wordpress panels, icons, fontawesome icons, grid layout, layout, row, content, icon panel, content panel, image panel, services, service, service content, service shortcode, jquery, css3, css, css panel, bootstrap css, bootstrap shortcode, gallery, images, photos, slider, social, post, news, blog, our team
+Tags: panels, content box, icon box, box, info box, color box,
 Requires at least: 5.0
-Tested up to: 6.5
-Stable tag: 2.1.5
+Tested up to: 6.7.1
+Stable tag: 2.1.6
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -119,6 +119,9 @@ Please use WordPress support forum to ask any query regarding any issue.
 
 
 == Changelog ==
+
+= 2.1.6 =
+* Compatible with wordpress 6.7.1
 
 = 2.1.5 =
 * Compatible with wordpress 6.5
